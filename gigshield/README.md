@@ -15,7 +15,7 @@
 > GigShield protects delivery workers, cab drivers, and freelancers from income loss caused by rain, traffic, AQI spikes, or zone closures — automatically.
 
 ---
-[ Problem](#-problem-statement) • [ How It Works](#-how-it-works) • [ Tech Stack](#-tech-stack) • [ Architecture](#-system-architecture) • [ Repo Structure](#-repository-structure) • [Getting Started](#-getting-started)
+[ Problem](#-problem-statement) • [ Our Solution](#-our-solution) • [Persona & Scenarios](#-persona-scenarios) • [Weekly Premium Model](#-weekly-premium-model) • [Workflow diagram](#-workflow-diagram) • [ Tech Stack](#-tech-stack) • [ Architecture](#-system-architecture) • [ Repo Structure](#-repository-structure) • [Getting Started](#-getting-started) • [Security & Anti-Fraud](#-security-anti-fraud)  • [ Development Plan](#-development-plan) • [Team](#-team) • [Demo](#-demo) 
 
 </div>
 
