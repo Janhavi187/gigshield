@@ -281,4 +281,4 @@ docker-compose up --build
  ---
 
 <div align="center">
-**GigShield — Because every shift ma
+**GigShield — Because every shift matters **
