@@ -269,7 +269,7 @@ docker-compose up --build
  > Blue Hat
  Janhavi Kishor
  Archita Nandi
- Patel Mukthi
+ Patel Mukti
  Swetank Pachauri
  Tushar Bisht
 
