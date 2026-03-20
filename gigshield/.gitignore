@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+venv/
+.venv/
+env/
+
+# Environment
+.env
+*.env.local
+firebase-credentials.json
+
+# Build outputs
+.next/
+build/
+dist/
+*.egg-info/
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+
+# ML model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+models/saved/
+
+# Database
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
